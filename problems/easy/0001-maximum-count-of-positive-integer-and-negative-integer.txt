@@ -1,0 +1,16 @@
+/*
+ * Problem: 2529. Maximum Count of Positive Integer and Negative Integer (#1)
+ * Difficulty: Easy
+ * Topics: N/A
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
+ * Solved on: 2026-06-23
+ */
+
+class Solution {class Solution {
+public:public:
+    int maximumCount(vector<int>& nums) {    int maximumCount(vector<int>& nums) {
+                
+    }    }
+};};
+
