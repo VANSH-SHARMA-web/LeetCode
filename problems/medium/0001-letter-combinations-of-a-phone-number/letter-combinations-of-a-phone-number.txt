@@ -1,0 +1,17 @@
+/*
+ * Problem: 17. Letter Combinations of a Phone Number (#1)
+ * Difficulty: Medium
+ * Topics: N/A
+ * Language: Sort by:
+ * LeetCode URL: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+ * Solved on: 2026-06-23
+ */
+
+class Solution {class Solution {
+public:public:
+    vector<string> letterCombinations(string digits) {    vector<string> letterCombinations(string digits) {
+                
+    }    }
+                
+};};
+
